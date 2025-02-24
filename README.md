@@ -23,7 +23,7 @@
     width="400"
     style="padding-right: 0px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanesantiago&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  /> 
 </p>
 
 
