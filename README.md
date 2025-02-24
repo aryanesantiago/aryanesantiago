@@ -4,7 +4,9 @@
 - 📖 Estudando Python
 - 👤 Pronouns: ela/dela
 
-### 📊 Estatísticas
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanesantiago&show_icons=true&theme=gruvbox)
+
+
+
+
 
 
