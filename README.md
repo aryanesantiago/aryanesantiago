@@ -2,7 +2,7 @@
 
 - 💻 Estou no terceiro periodo de Análise e Desenvolvimento de Sistemas
 - 📖 Estudando Python
-- 👤 Pronouns: ela/dela
+- 👤 Pronomes: ela/dela
 
 
 ### 📊 Estatísticas
