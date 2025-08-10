@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Aryane Santiago
 
-- 💻 Estou no terceiro periodo de Ciência da computação
+- 💻 Estou no quarto periodo de Ciência da computação
 - 📖 Estudando Python
 - 👤 Pronomes: ela/dela
 
