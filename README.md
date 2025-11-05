@@ -1,9 +1,8 @@
 ## Olá! Eu sou a Aryane Santiago
 
-- 💻 Estou no quarto periodo de Ciência da computação
-- 📖 Estudando Javascript
-- 👤 Pronomes: ela/dela
-
+- 💻 Estou no quarto periodo de Ciência da computação.
+- 🎨 Foco em desenvolvimento Front-End, criando interfaces interativas e responsivas.
+- 📖 Atualmente, estou me especializando em JavaScript.
 
 ### 📊 Estatísticas
 
