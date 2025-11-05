@@ -1,4 +1,4 @@
-## Olá! Eu sou a Aryane Santiago
+## Olá! Eu sou a Aryane Santiago 👋
 
 - 💻 Estou no quarto periodo de Ciência da computação.
 - 🎨 Foco em desenvolvimento Front-End, criando interfaces interativas e responsivas.
