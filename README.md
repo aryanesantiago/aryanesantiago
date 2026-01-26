@@ -4,7 +4,6 @@
   </a>
 </p>
 
-
 - 💻 Estou no quarto periodo de Ciência da computação.
 - 🎨 Foco em desenvolvimento Front-End, criando interfaces interativas e responsivas.
 - 📖 Atualmente, estou me especializando em JavaScript.
