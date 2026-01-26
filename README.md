@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=F798E8&width=435&lines=Ol%C3%A1!+Eu+sou+a+Aryane+Santiago+%F0%9D%9C%97%E0%A7%8E" alt="Typing SVG" />
   </a>
