@@ -16,6 +16,8 @@
 - 🗄️ Modelagem relacional e construção de consultas analíticas em **MySQL / SQL**.
 - 📈 Desenvolvimento de dashboards interativos e acompanhamento de métricas em **Power BI & Excel**.
 
+---
+
 ### 📊 Estatísticas
 
 <table>
