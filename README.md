@@ -4,16 +4,16 @@
   </a>
 </p>
 
-🎓 **Ciência da Computação** (6º Período)  
-📊 **Foco em Análise de Dados & Business Intelligence**  
-💻 Aplico programação e modelagem de dados para estruturar análises e apoiar tomadas de decisão estratégicas.
+★ **Ciência da Computação** (6º Período)  
+★ **Foco em Análise de Dados & Business Intelligence**  
+★ Aplico programação e modelagem de dados para estruturar análises e apoiar tomadas de decisão estratégicas.
 
 
-### 🚀 Sobre Mim
-- 🎓 Estudando **Ciência da Computação** com foco em Engenharia e Análise de Dados.
-- 🛠️ Tratamento, limpeza e manipulação de conjuntos de dados utilizando **Python (Pandas)**.
-- 🗄️ Modelagem relacional e construção de consultas analíticas em **MySQL / SQL**.
-- 📈 Desenvolvimento de dashboards interativos e acompanhamento de métricas em **Power BI & Excel**.
+### 👩🏻‍💻 Sobre Mim
+- Estudando **Ciência da Computação** com foco em Engenharia e Análise de Dados.
+- Tratamento, limpeza e manipulação de conjuntos de dados utilizando **Python (Pandas)**.
+- Modelagem relacional e construção de consultas analíticas em **MySQL / SQL**.
+- Desenvolvimento de dashboards interativos e acompanhamento de métricas em **Power BI & Excel**.
 
 
 ### 📊 Estatísticas
